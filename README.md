@@ -1,16 +1,106 @@
-# React + Vite
+Aurora Landing Page
+https://kax3per.github.io/Aurora/
+============================
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A modern, high-performance landing page designed with a premium, futuristic aesthetic.
+Focused on clean UI, immersive visuals, and smooth user experience.
+------------
 
-Currently, two official plugins are available:
+Overview
+This project is a fully responsive website designed to present a modern digital product or brand with a strong visual identity.
+The layout follows a clear flow:
+Hero → Features → Content Sections → Interaction Elements → Footer
+Each section is built to create an engaging experience — from first impression to smooth exploration.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
 
-## React Compiler
+Key Features
+ - UX & Structure
+Clean and intuitive layout
+Smooth navigation and section flow
+Clear content hierarchy
+-----------
+ - UI Design
+Futuristic and minimal aesthetic
+Strong use of gradients and glow effects
+Consistent spacing and typography system
+Fully responsive (mobile-first approach)
+-----------
+ - Interactivity
+Smooth animations and transitions
+Hover-based interactions
+Dynamic visual elements
+Modern scrolling experience
+-----------
+  - Performance
+Lightweight structure
+Optimized animations
+Efficient rendering without heavy libraries
+-------------
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+Tech Stack
+React – component-based architecture
+Tailwind CSS – utility-first styling
+JavaScript (ES6+) – logic and interactions
+React Hooks – state and lifecycle management
 
-## Expanding the ESLint configuration
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+The project is organized into clear layers:
+components/ → reusable UI elements
+sections/ → main page sections
+layout/ → wrappers and global structure
+pages/ → page composition
+Each section is built as an independent module, making the code scalable and easy to maintain.
+
+
+Development Approach (AI + Manual Work)
+This project was built using a modern workflow that combines manual development with AI-assisted tools.
+
+AI is used to:
+speed up development
+improve code consistency
+explore UI/UX solutions faster
+assist in problem solving
+
+However, all key decisions — including layout, structure, and interactions — are designed and implemented manually.
+
+AI is a tool, not a replacement.
+
+This approach allows for:
+faster iteration
+cleaner code
+better overall quality
+
+
+Purpose
+This project can serve as:
+
+💼 Portfolio project
+
+🧑‍💻 Frontend practice (modern UI/UX)
+
+🌐 Landing page for digital product / startup
+
+🚀 Base for scalable web application
+
+
+Future Improvements
+Backend integration
+CMS for content management
+Advanced animations (GSAP / Three.js)
+API integration
+SEO optimization
+
+
+Author
+Developed by Kacper
+----------------
+
+I build modern, performance-focused websites with strong attention to:
+
+UI/UX
+
+interactivity
+
+clean architecture
+
+Using a combination of frontend expertise and AI-supported workflow, I deliver projects faster without sacrificing quality.
